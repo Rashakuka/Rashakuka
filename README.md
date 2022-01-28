@@ -34,6 +34,6 @@ Tools and Technologies <br>
  <br>
  📫 Get in touch <br>
   <br>
-LinkedIn - <a href="https://www.linkedin.com/in/matheus-arthur-fachin-77a951127/">Matheus Arthur Fachin</a>   <br>
+LinkedIn - <a href="https://www.linkedin.com/in/matheus-arthur-fachin/">Matheus Arthur Fachin</a>   <br>
 Email - <a href="mailto:fachin.matheus@gmail.com">fachin.matheus@gmail.com</a>  <br>
 CodePen - <a href="https://codepen.io/rashakuka">Rashakuka</a>   <br>
