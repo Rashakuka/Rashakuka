@@ -4,36 +4,23 @@ Some of the technologies I've worked with:
 
 Frontend
 
-👨🏻‍💻 JavaScript | TypeScript <br>
-🌐 HTML5 | CSS3 | JQuery <br>
+👨🏻‍💻 JavaScript <br>
+🌐 HTML | CSS <br>
 🖥️ React | Angular | Vue | Electron <br>
  <br>
 Backend <br>
  <br>
-👨🏻‍💻 JavaScript | TypeScript <br>
-☕ C# | Asp.Net | Azure functions <br>
-🛢️ MySQL | PostgreSQL | MySql <br>
- <br>
-Others <br>
- <br>
-🔳 Git | Github | BitBucket | DevOps <br>
-📓 Jira <br>
-🟣 Saucelabs <br>
-🅰️ Azure <br>
-🟥 Selenium <br>
-🛒 Nopcommerce <br>
- <br>
-Tools and Technologies <br>
- <br>
-🟪 Shopify <br>
-📫 Slack <br>
-🔳 Postman <br>
-📓 Asana <br>
-🟣 Hubspot <br>
-💳 PayPal <br>
+👨🏻‍💻 JavaScript <br>
+☕ C# | Asp.Net <br>
+🛢️ Sql <br>
  <br>
  📫 Get in touch <br>
   <br>
 LinkedIn - <a href="https://www.linkedin.com/in/matheus-arthur-fachin/">Matheus Arthur Fachin</a>   <br>
 Email - <a href="mailto:fachin.matheus@gmail.com">fachin.matheus@gmail.com</a>  <br>
 CodePen - <a href="https://codepen.io/rashakuka">Rashakuka</a>   <br>
+
+<a href="https://github.com/Rashakuka">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashakuka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashakuka&layout=compact&langs_count=7&theme=dark"/>
+</a>
