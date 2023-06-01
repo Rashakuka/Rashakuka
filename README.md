@@ -1,7 +1,3 @@
-I'm a Software Engineer with a passion for all things technology and a big video games enthusiast.
-
-Some of the technologies I've worked with:
-
 Frontend
 
 👨🏻‍💻 JavaScript <br>
