@@ -1,14 +1,14 @@
 Matheus Arthur Fachin
 Senior Software Engineer | C# | .NET | Azure | DevOps | SQL | React | AWS
 
-Frontend
-<br>
+Frontend 
+
 👨🏻‍💻 JavaScript <br>
 🌐 HTML | CSS <br>
 🖥️ React
- <br>
-Backend <br>
- <br>
+
+Backend
+
 👨🏻‍💻 JavaScript <br>
 ☕ C# | .Net <br>
 🛢️ Sql <br>
